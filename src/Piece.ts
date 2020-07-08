@@ -6,8 +6,6 @@ import elophantImage from './images/elophant.png';
 import { Cell, Position } from "./Board";
 import {PlayerType} from "./Player";
 
-console.log(chickenImage)
-
 
 export class MoveResult {
     constructor(private killedPiece: Piece) {}
