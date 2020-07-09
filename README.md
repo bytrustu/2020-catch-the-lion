@@ -1,3 +1,8 @@
+npm install
+npm run dev
+localhost:1234
+
+
 Screenshots
 -----------
 <div>
